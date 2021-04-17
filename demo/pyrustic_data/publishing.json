@@ -1,0 +1,13 @@
+{
+    "asset_label": "Download the Wheel",
+    "asset_name": "demo-0.0.1-py3-none-any.whl",
+    "asset_path": "/home/alex/demo/dist/demo-0.0.1-py3-none-any.whl",
+    "description": "Install [Hubstore](https://github.com/pyrustic/hubstore):\n\n```bash\n$ pip install hubstore\n```\n\nor upgrade Hubstore:\n\n```bash\n$ pip install hubstore --upgrade --upgrade-strategy eager\n```\n\n\nRun Hubstore:\n\n```bash\n$ hubstore\n```\n\n\nThen paste or type `pyrustic/demo` in Hubstore:\n\n<br>\n\nEnjoy !\n\n<br><br>\n\nPublished with [Pyrustic](https://github.com/pyrustic/pyrustic)\n",
+    "draft": false,
+    "name": "demo v0.0.1",
+    "owner": "pyrustic",
+    "prerelease": false,
+    "repo": "demo",
+    "tag_name": "v0.0.1",
+    "target_commitish": "master"
+}
